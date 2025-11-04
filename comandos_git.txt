@@ -3,3 +3,15 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona arquivo para ser commmitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log -> mostra todo o histório de commit
+
+## FLUXO DE TRABALHO
+
+1. Criar o diretório (pasta) do projeto
+2. Iniciar o git dentro do diretório criado (git init . )
+3. edita ou cria os arquivos
+4. git status para saber situação dos arquivos
+5. git add <nome do arquivo> para preparar arquivos para commit
+6. git status
+7. git commit -m "mensagem" para commitar (criar checkpoint) do trabalho
+8. git status
+9. voltar para o passo 3
