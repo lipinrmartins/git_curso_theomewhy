@@ -1,1 +1,4 @@
 ESSE É UM ARQUIVO QUE CONTÉM INFORMAÇÕES ADICIONAIS PARA O GIT
+
+- primeiro comando
+- segundo comando
