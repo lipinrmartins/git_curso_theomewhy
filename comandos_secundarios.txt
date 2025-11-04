@@ -4,4 +4,9 @@ ESSE É UM ARQUIVO QUE CONTÉM INFORMAÇÕES ADICIONAIS PARA O GIT
 - segundo comando
 
 # Comandos Genéricos
-- Novos comandos genericos
+- Novos comandos genéricos
+
+# Mais comandos 
+- Aleatório 1
+- Aleatório 2
+- Aleatório 3
