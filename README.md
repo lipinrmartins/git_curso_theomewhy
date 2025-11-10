@@ -1,12 +1,12 @@
-\# Curso TeoMeWhy Git \& GitHub 2025
+## Curso TeoMeWhy Git \& GitHub 2025
 
 Curso para iniciantes aprenderem a trabalhar com versionamento de códigos utilizando o Git e GitHub.
 
 Confira tudo no nosso Youtube. Segue o link:
 
-## [Curso Git 2025](https://www.youtube.com/@teomewhy)
+### [Curso Git 2025](https://www.youtube.com/@teomewhy)
 
-\## Fluxo de trabalho Git Local
+## Fluxo de trabalho Git Local
 
 1.  git checkout -b
 2.  cria ou atualiza arquivos
@@ -17,7 +17,7 @@ Confira tudo no nosso Youtube. Segue o link:
 7.  git checkout main
 8.  git merge nova_branch
 
-\## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 1.  git clone
 2.  git checkout -b <nova_branch>
@@ -32,7 +32,7 @@ Confira tudo no nosso Youtube. Segue o link:
 11. git checkout main
 12. git branch -D <nova_branch>
 
-\## Fluxo de trabalho GitHub <> Local (projetos open-source)
+## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
 1.  Fork do projeto para seu próprio github
 2.  git clone
